@@ -1,0 +1,17 @@
+D:\Linked Systems Task\LinkedSystems.BL\bin\Debug\net6.0\LinkedSystems.BL.deps.json
+D:\Linked Systems Task\LinkedSystems.BL\bin\Debug\net6.0\LinkedSystems.BL.dll
+D:\Linked Systems Task\LinkedSystems.BL\bin\Debug\net6.0\LinkedSystems.BL.pdb
+D:\Linked Systems Task\LinkedSystems.BL\bin\Debug\net6.0\LinkedSystems.DAL.dll
+D:\Linked Systems Task\LinkedSystems.BL\bin\Debug\net6.0\LinkedSystems.DAL.pdb
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.csproj.AssemblyReference.cache
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.AssemblyInfoInputs.cache
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.AssemblyInfo.cs
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.csproj.CoreCompileInputs.cache
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.csproj.CopyComplete
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.dll
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\refint\LinkedSystems.BL.dll
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.pdb
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\ref\LinkedSystems.BL.dll
+D:\Linked Systems Task\LinkedSystems.BL\bin\Debug\net6.0\LinkedSystems.BL.runtimeconfig.json
+D:\Linked Systems Task\LinkedSystems.BL\obj\Debug\net6.0\LinkedSystems.BL.genruntimeconfig.cache
